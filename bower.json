@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "authors": [
+    "Pyunghyuk Yoo <yoophi@gmail.com>"
+  ],
+  "description": "requirejs with site_config and jquery example",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "requirejs"
+  ],
+  "license": "MIT",
+  "homepage": "http://yoophi.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "requirejs": "^2.1.22"
+  }
+}
